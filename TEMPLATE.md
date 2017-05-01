@@ -1,4 +1,7 @@
-# <Name of Feature>
+# {Name of Feature}
+
+- Owner: {Your Name} {you@example.com}, {@you} on the Elm Slack
+- Questions + Collaboration: {room} on the Elm Slack
 
 Define your feature. What will you be able to do if it's implemented? Define the main pieces of terminology. If applicable, define what it is *not*.
 
@@ -13,5 +16,5 @@ How do other langues implement this feature or address this problem? Be sure to 
 
 What approachs work well? Which ones do not? Have other communities written design documents or retrospectives on this feature?
 
-## Proposed API or syntaz
+## Proposed API or syntax
 Briefly and provisionally describe a library API or language syntax for the feature. Connect the API with the design goals established above.
