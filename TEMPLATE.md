@@ -16,6 +16,6 @@ How do other langues implement this feature or address this problem? Be sure to 
 
 What approachs work well? Which ones do not? Have other communities written design documents or retrospectives on this feature?
 
-## Proposed API or syntaz
+## Proposed API or syntax
 Briefly and provisionally describe a library API or language syntax for the feature. Connect the API with the design goals established above.
 
