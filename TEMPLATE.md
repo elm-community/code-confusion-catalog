@@ -1,4 +1,7 @@
-# <Name of Feature>
+# {Name of Feature}
+
+- Steward: {Your Name} {you@example.com}, {@you} on the Elm Slack
+- Questions + Collaboration: {room} on the Elm Slack
 
 Define your feature. What will you be able to do if it's implemented? Define the main pieces of terminology. If applicable, define what it is *not*.
 
