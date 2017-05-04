@@ -7,7 +7,7 @@ If that sounds weird to you, watch [*Code is the Easy Part* by Evan Czaplicki](h
 
 ## Should I Open an Issue?
 
-If you're looking for help, you're probably better off asking on [elm-discuss](https://groups.google.com/forum/#!forum/elm-discuss), [Reddit](https://www.reddit.com/r/elm/), or in the #beginners or #general channel on [the Elm Slack](http://elmlang.herokuapp.com/).
+If you're looking for help, you're probably better off asking on [Reddit](https://www.reddit.com/r/elm/), or in the #beginners or #general channel on [the Elm Slack](http://elmlang.herokuapp.com/).
 When you do that, your problem will probably be addressed and solved.
 
 If it's not, or if your issue is a good example a pain we're collecting, someone will direct you back here.
