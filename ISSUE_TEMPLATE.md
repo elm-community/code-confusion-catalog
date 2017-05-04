@@ -7,7 +7,7 @@ We want you to get help when you need it and opening an issue here will probably
 
 Still here? Great! Just a little bit of work will make sure we hear your voice and solve your problem in the long term. Could you please fill out the sections below? Just follow the directions in each one, and delete these instructions when you're done.
 
-We may or may not respond to your issue, but we appreciate you taking the time to open it! Issues usually have to "bake" for a while so things can be solved the right way. Check out that talk linked in README.md for why.
+We try to respond to as many issues as possible, even if the answer is "that's not possible right now". Issues may have to "bake" for a while so things can be solved the right way. Watch *Code is the Easy Part* (linked in README.md) for why.
 
 Finally, thanks for making the Elm community a wonderful place to be!
 -->
