@@ -1,30 +1,20 @@
-# Literature Reviews
+# Code Confusion Catalog
 
-This repo houses markdown documents exploring proposed language and library additions to the Elm language. This includes:
+This repo catalogs painful and confusing interactions with [Elm](http://elm-lang.org/).
+We do this to distill a whole lot of pain down to a handful of solutions.
 
-- Extensions to the Elm language, syntax, and semantics.
-- Modifications or extensions of the core Elm packages. These are for the Elm "standard library", including packages like `List`, `Dict`, and `Json.Decode`.
-- Large community-focused informational documents (why do we do it *that* way?)
+If that sounds weird to you, watch [*Code is the Easy Part* by Evan Czaplicki](https://www.youtube.com/watch?v=DSjbTC-hvqQ&list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd&index=1) for more context.
 
-## Gathering feedback before submitting
+## Should I Open an Issue?
 
-It's often helpful to get feedback on your concept before getting into the detail required for a literature review.
-You may open an issue on this repo to start a high-level discussion, with the goal of eventually creating a literature review pull request. In addition you can post a message to the [elm-discuss mailing list](https://groups.google.com/forum/#!forum/elm-discuss) or chat to the folks over at [Slack](https://elmlang.herokuapp.com/).
+If you're looking for help, you're probably better off asking on [elm-discuss](https://groups.google.com/forum/#!forum/elm-discuss), [Reddit](https://www.reddit.com/r/elm/), or in the #beginners or #general channel on [the Elm Slack](http://elmlang.herokuapp.com/).
+When you do that, your problem will probably be addressed and solved.
 
-## The process
+If it's not, or if your issue is a good example a pain we're collecting, someone will direct you back here.
+Super!
+Go ahead and [open a new issue](https://github.com/elm-community/code-confusion-catalog/issues/new) and fill out the template there.
 
-- Fork the [the elm-community/literature-reviews repo](https://github.com/elm-community/literature-reviews)
-- Copy `TEMPLATE.md` to `my-feature-name/README.md`
-- Fill in the template
-- Submit a pull request. As a pull request the literature review will receive feedback from the larger community, and the author should be prepared to revise it in response.
-- Eventually, the community will decide whether the literature review should be merged.
+## Should I Send Someone Here?
 
-### Stewards
-
-A literature review requires a single point of contact, called a steward.
-This person is usually the principal author of the review, but it doesn't have to be.
-They should be willing to answer any issues or questions about their review, and coordinate work on it.
-
-If a literature review is a team effort, this should still be a single person.
-The steward serves as the point person for discussions, and routes questions to the most appropriate venue or person.
-You can list the rest of the team elsewhere in the document for credit's sake, or keep a human-meaningful changelog.
+See [curators in `curators.md`](curators.md) for categories we're currently collecting.
+If in doubt, ask in #elm-community or #elm-dev on [Slack](http://elmlang.herokuapp.com/).
