@@ -27,5 +27,5 @@ Here's where you can get specific and crunchy. What have you tried? What workaro
 ## SSCCE
 
 <!--
-Check out http://www.sscce.org/ if you've never heard this term and delete this whole section if it's not relevant to your issue.
+If applicable, attach your SSCCE (Small Self Contained Compilable Example) here. If it's not applicable, please delete this whole section.
 -->
