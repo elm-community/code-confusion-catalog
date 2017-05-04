@@ -18,7 +18,7 @@ Finally, thanks for making the Elm community a wonderful place to be!
 Describe in broad details what you're trying to do. We're looking for "I'm trying to create a music visualizer" over "I can't work with the Web Audio API". More context is better. Set the scene!
 -->
 
-## Specifics (What's Not Working)
+## Specifics (Where I'm Stuck)
 
 <!--
 Here's where you can get specific about your implementation. What have you tried? What workarounds have failed? Give as many specific details as you can.
