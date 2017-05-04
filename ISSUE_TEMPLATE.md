@@ -21,7 +21,7 @@ Describe in broad details what you're trying to do. We're looking for "I'm tryin
 ## Specifics (What's Not Working)
 
 <!--
-Here's where you can get specific and crunchy. What have you tried? What workarounds have failed? Give as many specific details as you can.
+Here's where you can get specific about your implementation. What have you tried? What workarounds have failed? Give as many specific details as you can.
 -->
 
 ## SSCCE
