@@ -1,8 +1,12 @@
 # Literature Reviews
 
-The goal of this repo is to house markdown documents exploring proposed language and library additions to the Elm language.
+This repo houses markdown documents exploring proposed language and library additions to the Elm language. This includes:
 
-## What's a Steward?
+- Extensions to the Elm language, syntax, and semantics.
+- Modifications or extensions of the core Elm packages. These are for the Elm "standard library", including packages like `List`, `Dict`, and `Json.Decode`.
+- Large community-focused informational documents (why do we do it *that* way?)
+
+## Stewards
 
 A literature review requires a single point of contact, called a steward.
 This person is usually the principal author of the review, but it doesn't have to be.
