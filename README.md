@@ -14,7 +14,7 @@ If it's not, or if your issue is a good example a pain we're collecting, someone
 Super!
 Go ahead and [open a new issue](https://github.com/elm-community/code-confusion-catalog/issues/new) and fill out the template there.
 
-## Should I Send Someone Here?
+## When should I Send Someone Here?
 
 See [curators in `curators.md`](curators.md) for categories we're currently collecting.
 If in doubt, ask in #elm-community or #elm-dev on [Slack](http://elmlang.herokuapp.com/).
