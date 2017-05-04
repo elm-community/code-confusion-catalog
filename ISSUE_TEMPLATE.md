@@ -1,7 +1,7 @@
 <!--
 Hello! Thanks for clicking that shiny new issue button.
 
-We want you to get help when you need it and opening an issue here will probably just slow you down, so could you do us a favor? Go check README.md and curators.md to make sure this is the most appropriate place for what you're about to post. We have much faster ways of solving individual problems, and they're linked to there.
+We want you to get help when you need it and opening an issue here will probably just slow you down, so could you do us a favor? Go check README.md to make sure this is the most appropriate place for what you're about to post. We have much faster ways of solving individual problems, and they're linked to there.
 
 ...
 
