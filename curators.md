@@ -5,5 +5,5 @@ These are probably the best people to ask if opening an issue is appropriate.
 
 Again, if in doubt, ask in #elm-community or #elm-dev on [Slack](http://elmlang.herokuapp.com/).
 
-| Category | Description | Curator Name | Preferred Contact Information |
-|----------|-------------|--------------|-------------------------------|
+| Category | Curator Name |
+|----------|--------------|
