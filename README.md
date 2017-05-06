@@ -16,5 +16,5 @@ Go ahead and [open a new issue](https://github.com/elm-community/code-confusion-
 
 ## When should I Send Someone Here?
 
-See [curators in `curators.md`](curators.md) for categories we're currently collecting.
+Generally, when someone has encountered a difficult pattern that works but could be better. The rules are still loose at the moment - but may be more exact soon.
 If in doubt, ask in #elm-community or #elm-dev on [Slack](http://elmlang.herokuapp.com/).
