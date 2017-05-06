@@ -7,3 +7,4 @@ Again, if in doubt, ask in #elm-community or #elm-dev on [Slack](http://elmlang.
 
 | Category | Curator Name |
 |----------|--------------|
+| Everything | eeue56 |
