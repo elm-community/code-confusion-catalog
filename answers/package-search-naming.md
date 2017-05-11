@@ -1,11 +1,11 @@
 # Problem
 ## Context (What I'm Trying To Accomplish)
 
-I want my package, elm-random-thing, to show up when someone searches for JSON.
+I want my package, elm-random-generator, to show up when someone searches for JSON. It is a package which generates all kinds of random data, including JSON.
 
 ## Specifics (Where I'm Stuck)
 
-If I type json into package.elm-lang.org, only packages with json in the name come up. Should I name my package elm-random-json-thing?
+If I type json into package.elm-lang.org, only packages with json in the name come up. Should I name my package elm-random-json-generator?
 
 
 # Solution
